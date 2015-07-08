@@ -1,0 +1,39 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context=".MainActivity">
+
+    <com.amap.api.maps.MapView
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:id="@+id/map_view">
+
+        </com.amap.api.maps.MapView>
+
+    <RadioGroup
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/radio_group"
+        android:orientation="horizontal">
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/gps_locate_button"
+            android:text="Locate"
+            android:checked="true"/>
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/gps_follow_button"
+            android:text="Follow"/>
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/gps_rotate_button"
+            android:text="Rotate"/>
+        </RadioGroup>
+
+</FrameLayout>
+<!-- From: file:/D:/AndroidProject/GaoDeMapTest/app/src/main/res/layout/activity_main.xml -->

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="D:\AndroidProject\GaoDeMapTest\app\build\intermediates\pre-dexed\debug\Android_Location_V1.3.2-175f6e055de81993eb658355805efc9764c63e75.jar"
+        jar="D:\AndroidProject\GaoDeMapTest\app\libs\Android_Location_V1.3.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="b64d1f38ef7ee28b538d61a39d040f249c65587c"/>
+    <item
+        dex="D:\AndroidProject\GaoDeMapTest\app\build\intermediates\pre-dexed\debug\AMap_3DMap_V2.4.0-9c853a37ff684579a6e26c17294f2cad91785cde.jar"
+        jar="D:\AndroidProject\GaoDeMapTest\app\libs\AMap_3DMap_V2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="37703c4a641f0f61d4567c987da1f26cd071cc0e"/>
+
+</pre-dex-items>
